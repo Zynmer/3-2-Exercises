@@ -4,6 +4,17 @@
 - Incremented chickenCount
 - Made a method that returns an integer
 ### Chickens02
-- Calculated dail average
+- Calculated daily average
 - Converted int to double
 - Used expressions
+
+
+
+
+
+
+
+
+
+
+so many chickens.
